@@ -1,0 +1,13 @@
+﻿  graph.cpp
+c:\users\rbt\desktop\graphs\graph\graph\graph.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\rbt\desktop\graphs\graph\graph\graph.cpp(288): warning C4018: '<': signed/unsigned mismatch
+c:\users\rbt\desktop\graphs\graph\graph\graph.cpp(522): warning C4018: '<': signed/unsigned mismatch
+c:\users\rbt\desktop\graphs\graph\graph\graph.cpp(523): warning C4018: '<': signed/unsigned mismatch
+c:\users\rbt\desktop\graphs\graph\graph\graph.cpp(528): warning C4715: 'AdjMatrix::transformToAdjList': not all control paths return a value
+c:\users\rbt\desktop\graphs\graph\graph\graph.cpp(540): warning C4715: 'TopAdjList::transformToListOfEdges': not all control paths return a value
+c:\users\rbt\desktop\graphs\graph\graph\graph.cpp(516): warning C4715: 'AdjMatrix::transformToListOfEdges': not all control paths return a value
+c:\users\rbt\desktop\graphs\graph\graph\graph.cpp(265): warning C4715: 'TopAdjList::transformToAdjMatrix': not all control paths return a value
+c:\users\rbt\desktop\graphs\graph\graph\graph.cpp(404): warning C4715: 'EdgeList::transformToAdjList': not all control paths return a value
+c:\users\rbt\desktop\graphs\graph\graph\graph.cpp(420): warning C4715: 'EdgeList::transformToAdjMatrix': not all control paths return a value
+  graph.vcxproj -> C:\Users\rbt\Desktop\graphs\graph\Debug\graph.exe
+  graph.vcxproj -> C:\Users\rbt\Desktop\graphs\graph\Debug\graph.pdb (Full PDB)
