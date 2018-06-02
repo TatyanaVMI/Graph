@@ -84,6 +84,7 @@ public:
 	GraphPresentation * presentation;
 
 	Graph() { N = 0; }
+	Graph(int _N) { N = _N; }
 	Graph(int _N, GraphPresentation * pres) { N = _N; presentation = pres; }
 	void readGraph(string fileName);
 	void writeGraph(string fileName);
